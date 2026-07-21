@@ -202,4 +202,4 @@ Projects
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a84ff,50:0a2a4a,100:050709&height=100&section=footer"/>
 
-</div>
+</div> 
