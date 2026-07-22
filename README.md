@@ -1,67 +1,83 @@
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050709,50:0a2a4a,100:0a84ff&height=250&section=header&text=Hi%20there,%20I'm%20Agbaje%20Stephen!&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20React%20•%20Node.js%20•%20Java&descAlignY=55&descSize=20&fontAlign=50" />
+<!-- ============================ -->
+<!--           HEADER             -->
+<!-- ============================ -->
 
-<div align="center">
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050709,50:0A2A4A,100:0A84FF&height=260&section=header&text=Hi%20there,%20I'm%20Agbaje%20Stephen!&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20React%20|%20Node.js%20|%20Java&descAlignY=58&descSize=18"/>
+</p>
 
-<a href="https://github.com/gokedev">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&height=50&lines=Building+Production+Ready+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Java+%7C+Spring+Boot+%7C+React+Native;Always+Learning,+Always+Building;Open+to+Internships+and+Collaborations" />
-</a>
+<h3 align="center">
+Building modern web & mobile applications with clean architecture.
+</h3>
 
-<br/><br/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Java+%7C+Spring+Boot+%7C+React+Native;Always+Learning+New+Technologies;Open+to+Internships+and+Collaborations"/>
+</p>
 
-<a href="https://agbajestephen.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0A84FF?style=flat-square&logo=vercel&logoColor=white" height="45"/>
-</a>
+<p align="center">
 
-&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=gokedev&label=Profile%20Views&color=0A84FF&style=for-the-badge"/>
 
-<a href="https://github.com/gokedev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="45"/>
-</a>
+<img src="https://img.shields.io/github/followers/gokedev?logo=github&style=for-the-badge"/>
 
-&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/gokedev?affiliations=OWNER&style=for-the-badge"/>
 
-<a href="mailto:agbajestephen5@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="45"/>
-</a>
-
-</div>
+</p>
 
 ---
 
 # 👨🏽‍💻 About Me
 
-> **Building scalable web and mobile applications that solve real business problems.**
+I'm **Agbaje Stephen**, a passionate **Full Stack Developer** who enjoys building scalable web and mobile applications with modern technologies.
 
-I'm a **Full Stack Developer** passionate about creating modern web and mobile applications using **React, React Native, Node.js, Express, MongoDB, Java, and Spring Boot**.
+I focus on writing clean, maintainable code while creating responsive, user-friendly experiences from frontend to backend.
 
-I enjoy taking ideas from concept to deployment while focusing on clean architecture, responsive user experiences, and maintainable code.
+### 🚀 Current Focus
 
-- 🚀 Currently building production-ready applications
-- 📱 Exploring React Native and mobile development
-- 🌱 Learning Spring Boot, Docker, and scalable backend architecture
-- 🤝 Open to internships, freelance work, and open source collaborations
-- ⚡ Fun fact: I enjoy solving bugs almost as much as building new features.
+- Building production-ready applications
+- React Native mobile development
+- Backend APIs using Node.js & Spring Boot
+- Cloud deployment with Render & Vercel
+- Docker & scalable architecture
+- Open Source Contributions
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-<div align="center">
+## Frontend
 
-### Frontend
+<p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,materialui" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,materialui"/>
 
-### Backend
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,mysql,firebase" />
+## Backend
 
-### Tools
+<p>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,vercel,netlify,render" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,mysql,firebase"/>
 
-</div>
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,render,netlify"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gokedev&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
 
 ---
 
@@ -69,18 +85,18 @@ I enjoy taking ideas from concept to deployment while focusing on clean architec
 
 ## 💳 FinWise
 
-A modern fintech mobile application.
+A secure fintech mobile application built using React Native and Node.js.
 
-**Features**
+### Features
 
 - JWT Authentication
+- OTP Verification
 - Paystack Integration
 - BVN/NIN Verification
-- OTP Authentication
-- REST APIs
-- MongoDB Database
+- REST API
+- MongoDB
 
-**Tech**
+**Tech Stack**
 
 React Native • Node.js • Express • MongoDB
 
@@ -88,28 +104,28 @@ React Native • Node.js • Express • MongoDB
 
 ## 💬 Chatify
 
-A real-time messaging platform.
+Real-time messaging application.
 
-**Features**
+### Features
 
 - Socket.IO
 - JWT Authentication
+- Friend Requests
+- Online Presence
 - Image Uploads
-- Friend System
-- Online Status
-- MongoDB
+- Responsive UI
 
-**Tech**
+**Tech Stack**
 
 React • Node.js • Express • MongoDB
 
 ---
 
-## 🎵 Alaffia Media PWAs
+## 🎵 Alaffia PWAs
 
-Production Progressive Web Applications built during my internship.
+Production Progressive Web Applications.
 
-Projects include:
+Projects
 
 - Alaffia Daily Reset
 - Alaffia Pause
@@ -118,33 +134,32 @@ Features
 
 - Audio Scheduling
 - WhatsApp Integration
-- Responsive Design
-- Production Deployment
+- Responsive UI
+- Offline Support
 
 ---
 
 ## 📦 Sales & Inventory System
 
-Desktop inventory management application.
-
-Tech
-
-- Java
-- JavaFX
-- MySQL
+Desktop inventory management system.
 
 Features
 
-- Authentication
+- User Authentication
+- Inventory Management
 - Sales Tracking
-- Inventory Reports
+- Reports
 - Role Management
+
+Tech
+
+Java • JavaFX • MySQL
 
 ---
 
-## 🌍 Business Website Collection
+## 🌐 Business Websites
 
-Designed and developed responsive websites for local businesses.
+Responsive websites built for businesses.
 
 Projects
 
@@ -154,52 +169,94 @@ Projects
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=gokedev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokedev&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+</p>
+
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=gokedev&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gokedev&theme=tokyo-night&hide_border=true" width="100%"/>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gokedev&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🤝 Let's Connect
+# 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gokedev/gokedev/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gokedev/gokedev/output/github-contribution-grid-snake.svg"/>
+
+<img alt="Contribution Snake" src="https://raw.githubusercontent.com/gokedev/gokedev/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+✓ React Native
+✓ Spring Boot
+✓ Docker
+✓ Microservices
+✓ System Design
+✓ Scalable Backend Development
+```
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
 
 <a href="https://agbajestephen.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit-0A84FF?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="mailto:agbajestephen5@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/gokedev">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
+<!-- Replace this with your LinkedIn profile -->
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### 💙 "Code. Learn. Build. Repeat."
+### 💙 Code • Learn • Build • Repeat
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a84ff,50:0a2a4a,100:050709&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,50:0A2A4A,100:050709&height=120&section=footer"/>
 
-</div> 
+</p>
