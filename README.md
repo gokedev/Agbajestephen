@@ -125,17 +125,21 @@ React • Node.js • Express • MongoDB
 
 Production Progressive Web Applications.
 
-Projects
+### Projects
 
 - Alaffia Daily Reset
 - Alaffia Pause
 
-Features
+### Features
 
 - Audio Scheduling
 - WhatsApp Integration
 - Responsive UI
 - Offline Support
+
+**Tech Stack**
+
+React • Node.js • PWA
 
 ---
 
@@ -143,7 +147,7 @@ Features
 
 Desktop inventory management system.
 
-Features
+### Features
 
 - User Authentication
 - Inventory Management
@@ -151,7 +155,7 @@ Features
 - Reports
 - Role Management
 
-Tech
+**Tech Stack**
 
 Java • JavaFX • MySQL
 
@@ -161,11 +165,15 @@ Java • JavaFX • MySQL
 
 Responsive websites built for businesses.
 
-Projects
+### Projects
 
 - Zuzu's Delightful Delivery
 - Isle of Barra Retreat
 - Mario Pizza Pulse
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
 
 ---
 
@@ -244,8 +252,7 @@ Projects
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Replace this with your LinkedIn profile -->
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/agbajestephen">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
