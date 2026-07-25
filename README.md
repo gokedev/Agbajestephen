@@ -65,7 +65,7 @@ I focus on writing clean, maintainable code while creating responsive, user-frie
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,render,netlify"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,render,figma"/>
 
 </p>
 
